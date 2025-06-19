@@ -1,0 +1,1 @@
+# BetterDiscordAutoInstaller-winget
